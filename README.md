@@ -1,6 +1,9 @@
 # Credits
 ### Backroom Funkin
+ - 
+ - [huskey](https://twitter.com/Huzks3) - Charter and Creator
  - [jayden8923](https://twitter.com/jayden8923taken) - Programming
+ - [ForgottenMemory](https://twitter.com/ForgotMemory_E) - Artist
 ### Friday Night Funkin'
  - [ninjamuffin99](https://twitter.com/ninja_muffin99) - Programming
  - [PhantomArcade3K](https://twitter.com/phantomarcade3k) and [Evilsk8r](https://twitter.com/evilsk8r) - Art
